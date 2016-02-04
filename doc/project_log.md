@@ -1,4 +1,5 @@
-####Project Statement
+#### 2016-01-29 Project Statement
+
 The objective of the project is to design a scalable inference algorithm for discovering overlapping communities in network data with node attributes. The assortative mixed-membership stochastic blockmodel [1, 2] will be extended for this study. Some of the recent work which I have come across identifies overlapping communities for latent [3] and categorical node attributes [4]. It will be interesting to extend this line of work for attributes consisting of arbitrary features.  I will explore the Enron corpus of email communication network and topic proportions obtained from the Author-Topic model as the node attributes. I hope to also find a biological network dataset such as protein interaction data with transcription related attributes. 
 
 #####References
